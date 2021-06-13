@@ -16,7 +16,7 @@ For example, in [i3wm][]:
 
 ```
 bindsym $mod+p exec passmenu-notify --notify
-bindsym $mod+Shift+p exec passmenu --type
+bindsym $mod+Shift+p exec passmenu-notify --notify --typeit
 ```
 
 
